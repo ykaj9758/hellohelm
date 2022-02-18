@@ -1,4 +1,4 @@
 cluster:
-  name: dev02
-  purpose: test
+  name: dev03
+  purpose: test dev
   env: dev
